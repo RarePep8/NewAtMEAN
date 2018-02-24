@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MEAN Stack Single Page Application Starter
 
 This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
@@ -18,3 +19,7 @@ If you have any questions or requests, email us at [chris@scotch.io](mailto:chri
 - Development and Production Environments
 - Link examples
 - Single Page AngularJS Animations
+=======
+# NewAtMEAN
+Attempt to full-stack develop with no prior experience in 72 hours
+>>>>>>> 998133c5aac697156ba5c81f98cee3b4fe10e1ba
