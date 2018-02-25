@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "description": "Starter code that allows users to easily deploy their project to Heroku",
   "main": "server.js",
-  "scripts": {
-    "start": "tsc && node server.js",
-    "start-dev": "tsc -w & node server.js",
-    "node": "node",
-    "tsc": "tsc"
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AryanJ-NYC/angular-2-heroku-boilerplate.git"
