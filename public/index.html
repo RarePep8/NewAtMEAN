@@ -24,13 +24,13 @@
 
 <body ng-app="MemeApp">
   <div ng-controller="MemeController">
-
+    <button ng-click=getRandomMeme()>
+			Random Meme
+		</button>
     <h1>{{title}}</h1>
     <img ng-src="{{imageURL}}"image-resizing
        image-Height="200px" image-Width="200px"/>
-		<button ng-click=getRandomMeme()>
-			Random Meme
-		</button>
+
   </div>
 
 
